@@ -5,8 +5,7 @@
   I'm particular interested on blockchain but don't have enough knowledge yet.
 </p>
 
-- 🌱 I’m currently learning blockchain
-- 👯 I’m looking to collaborate on backend or any blockchain projects
+- 🌱 I’m currently learning blockchain so I’m looking to collaborate on any blockchain projects.
 - 📫 How to reach me: gealbermorales@gmail.com
 - ⚡ Fun fact: I'm almost bald and my laptop is called **Bartola**
 

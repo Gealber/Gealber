@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning blockchain so I’m looking to collaborate on any blockchain projects.
 - 📫 How to reach me: gealbermorales@gmail.com
-- ⚡ Fun fact: I'm almost bald and my laptop is called **Bartola**
+- ⚡ Fun facts: I'm almost bald and my laptop is called **Bartola**
 
 I've been learning several programming languages:
 - C 🤯

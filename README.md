@@ -16,4 +16,6 @@ I've been learning several programming languages:
 - JavaScript 🙄
 - Rust(On the list 😅)
 
+<a href="https://stackoverflow.com/users/11496631/gealber"><img src="https://stackoverflow.com/users/flair/11496631.png" width="208" height="58" alt="profile for Gealber at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Gealber at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ![Gealber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gealber&theme=light&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gealber&layout=compact&theme=light)](https://github.com/majoledesma/github-readme-stats)

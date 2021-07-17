@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Gealber
 
 <p> 
-  I'm a mathematician who jumped into backend development, just for the fun of it. 
+  I'm a mathematician who jumped into backend development, for profit and fun, profit first. 
   I'm particular interested on blockchain but don't have enough knowledge yet.
 </p>
 

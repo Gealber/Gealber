@@ -6,7 +6,7 @@
 </p>
 
 - 📫 How to reach me: gealbermorales@gmail.com
-- ⚡ Fun facts: I'm almost bald and my laptop is called **Manolete el Plateado, in honor to Manolo El Grande**
+- ⚡ Fun facts: I'm almost bald and my laptop is called **Manolete el Plateado**
 
 I've been learning several programming languages:
 - C 🤯

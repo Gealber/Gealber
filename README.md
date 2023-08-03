@@ -12,7 +12,6 @@ I've been learning several programming languages:
 - C 🤯
 - Python 😃
 - Go 🤗
-- JavaScript 🙄
 - I read Assembly, not too much writting though 😅
 
 On my free time I [blog](https://gealber.com) about tech that I'm currently studying. Currently studying Blockchain and Reverse Engeneering.

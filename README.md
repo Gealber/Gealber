@@ -1,10 +1,5 @@
 ### Hi there 👋 my name is Gealber
 
-<p> 
-  I'm a mathematician who jumped into backend development, for profit and fun, profit first. 
-  I'm particular interested on blockchain but don't have enough knowledge yet.
-</p>
-
 - 📫 How to reach me: gealbermorales@gmail.com
 - ⚡ Fun facts: I'm almost bald and my laptop is called **Manolete el Plateado**
 
